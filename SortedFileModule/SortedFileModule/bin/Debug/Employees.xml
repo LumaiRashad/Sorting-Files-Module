@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />  <Employee>
+    <SSN>5754</SSN>
+    <FName> sjandf</FName>
+    <LName>mkdsndfk</LName>
+    <Salary>7777</Salary>
+    <Phone>66</Phone>
+    <Department>Bioinformatics</Department>
+    <Gender>Male</Gender>
+  </Employee>
+</ArrayOfEmployee><SSN>33</SSN>
+    <FName>mhaaa</FName>
+    <LName>msn</LName>
+    <Salary>8888</Salary>
+    <Phone>77</Phone>
+    <Department>Software</Department>
+    <Gender>Male</Gender>
+  </Employee>
+</ArrayOfEmployee>
